@@ -1,0 +1,5 @@
+#summary Simple Interval Timer for Android
+
+= Introduction =
+
+This application is a simple interval timer for Android devices. It will simply trigger a notification alert at regular intervals.
