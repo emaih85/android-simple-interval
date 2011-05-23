@@ -3,3 +3,9 @@
 = Introduction =
 
 This application is a simple interval timer for Android devices. It will simply trigger a notification alert at regular intervals.
+
+= Features =
+The initial features for this application are:
+ * Runs as a background service
+ * Configurable interval
+ * Configurable notification type
