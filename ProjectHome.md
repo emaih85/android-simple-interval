@@ -1,0 +1,3 @@
+This is a simple application for Android devices that will simply trigger a notification / alert at a regular interval.
+
+As a software engineer, I spend a great deal of my day sitting down at a computer. Thanks to my dodgy back, I have to continually find ways to remind myself to stand up and move about on a regular basis. Easy enough to do when I have immediate pain and discomfort, but it gets a little harder once my back is feeling healthy. Since my phone is sitting on my desk, it would be handy if it beeped at me at regular intervals.
